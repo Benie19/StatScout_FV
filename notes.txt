@@ -1,0 +1,11 @@
+i got the api to work had to hard code it into app, i do not like it. AS i have a deadline it wil do for know 
+App works as off 3/12/2024 but does not display the results the way i want it to.needs further ivestigation.
+
+Noticed that api only displays results for the day ,which i am fine with 
+Used thunder client to see what results api displays 
+Api doesnt display venue but api does display the team logo with the help of chat gpt was able to figure that out
+
+Need to find a new api that can display match information and all that 
+
+So far app works great ,its not the best but it works. 
+Need to see if i can expand on this a little bit more,start adding player profile and so on.
